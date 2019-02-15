@@ -1,6 +1,6 @@
 ## Sheffield ward profiler
 
-An app allowing users to visualise indicators for the 28 Sheffield wards categorised by theme. The choropleth map and lollipop chart show how the indicator varies across Trafford. The <a href="https://github.com/laurie-platt/ward_data" target="_blank">data</a> and the <a href="https://github.com/laurie-platt/ward_data" target="_blank">R code</a> to obtain and clean the data are available to download using the buttons provided. The app includes a brief introduction to the wards.
+An app allowing users to visualise indicators for the 28 Sheffield wards categorised by theme. The choropleth map and lollipop chart show how the indicator varies across Sheffield. The <a href="https://github.com/laurie-platt/ward_data" target="_blank">data</a> and the <a href="https://github.com/laurie-platt/ward_data" target="_blank">R code</a> to obtain and clean the data are available to download using the buttons provided. The app includes a brief introduction to the wards.
 
 
 <br>
