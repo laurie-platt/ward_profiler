@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@traffordDataLab" />
-  <meta name="twitter:title" content="Trafford ward profiler" />
-  <meta name="twitter:description" content="Interactively visualise indicators for the Trafford's wards categorised by theme" />
+  <meta name="twitter:title" content="Sheffield ward profiler" />
+  <meta name="twitter:description" content="Interactively visualise indicators for the Sheffield's wards categorised by theme" />
   <meta name="twitter:image" content="https://www.trafforddatalab.io/ward_profiler/twitter-card.png" />
-  <meta name="twitter:image:alt" content="Partial view of the choropleth and lollypop chart from the Trafford ward profiler" />
+  <meta name="twitter:image:alt" content="Partial view of the choropleth and lollypop chart from the SHeffield ward profiler" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
-  <title id="pageTitle">Trafford ward profiler</title>
+  <title id="pageTitle">Sheffield ward profiler</title>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
   <script src="https://www.trafforddatalab.io/assets/javascript/labGetQryStrValByKey.js"></script>
@@ -241,7 +241,7 @@
   <div class="header clearb">
     <div class="clearb" onclick="initialPage()">
       <div id="labLogo"><a href="https://www.trafforddatalab.io/index.html" target="_blank"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="93" height="31" class="traffordDataLabLogo"/></a></div>
-      <div id="headerTitle" onclick="initialPage()">Trafford ward profiler</div>
+      <div id="headerTitle" onclick="initialPage()">Sheffield ward profiler</div>
     </div>
   </div>
   <div id="main" class="clearb">
@@ -272,7 +272,7 @@
 
   themeUrls=[{theme:"Communications", url:"https://www.trafforddatalab.io/ward_data/communications/meta.csv"},
   {theme:"Community safety", url:"https://www.trafforddatalab.io/ward_data/community_safety/meta.csv"},
-  {theme:"Demographics", url:"https://www.trafforddatalab.io/ward_data/demographics/meta.csv"},
+  {theme:"Demographics", url:"https://sheffwarddata.azurewebsites.net/demographics/meta.csv"},
   {theme:"Deprivation", url:"https://www.trafforddatalab.io/ward_data/deprivation/meta.csv"},
   {theme:"Economy", url:"https://www.trafforddatalab.io/ward_data/economy/meta.csv"},
   {theme:"Education", url:"https://www.trafforddatalab.io/ward_data/education/meta.csv"},
@@ -373,7 +373,7 @@
           document.getElementById("datasetDescription").innerHTML=description
           //create download button
           document.getElementById("download").innerHTML='Download  <a class="labButton" href="'+ url +'" download>Data</a><a class="labButton" href="'+ urlCode +'" download>R code</a>'
-          document.getElementById("pageTitle").innerHTML="Trafford ward profiler:"+name
+          document.getElementById("pageTitle").innerHTML="Sheffield ward profiler:"+name
           var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + '?theme=' + encodeURIComponent(currentTheme) + '&name=' + encodeURIComponent(name);
           window.history.pushState({path:newurl},'',newurl);
         })
