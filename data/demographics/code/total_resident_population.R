@@ -23,4 +23,4 @@ df <- read_excel("SAPE20DT8-mid-2017-ward-2017-syoa-estimates-unformatted.xls",
          indicator, period, measure, unit,
          value = `All Ages`)
 
-write_csv(df, "../data/total_resident_population.csv")
+write_csv(df, "data/demographics/data/total_resident_population.csv")
