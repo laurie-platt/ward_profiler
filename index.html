@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto"/>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
-  <title id="pageTitle">Sheffield ward profiler TEST</title>
+  <title id="pageTitle">Sheffield ward profiler</title>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
   <script src="https://www.trafforddatalab.io/assets/javascript/labGetQryStrValByKey.js"></script>
@@ -478,7 +478,7 @@
 
       "Bucklow-St Martins":{slugName:"Bucklow-St_Martins", description:"Bucklow - St Martins is the second largest ward in the Borough. It is characterised by large areas of agricultural green belt land including Carrington Moss. Within the ward are a large industrial complex and Carrington Business Park. Within the south east part of the ward are the villages of Carrington and Partington and within the eastern area is the residential area of Sale. The northern boundary of the site is bounded by the River Mersey. The ward is home to the Manchester United and Manchester City Football Clubs training grounds. Bucklow - St Martins has three very distinct areas with pockets of high deprivation and isolated communities."},
 
-      "Clifford":{slugName:"Clifford", description:"Clifford is a TEST TEST small and densely populated ward at the north east tip of the Borough bordering Hulme in Manchester to the east and Whalley Range to the south. Physically it is characterised by dense residential areas of Victorian terraced housing and a diverse range of housing stock. Clifford is also known for its very diverse population, vibrant communities and active community groups, some are established and there are some newer groups. Clifford is undergoing significant transformation with the Old Trafford Master Plan and there is a lot of change to current housing."},
+      "Clifford":{slugName:"Clifford", description:"Clifford is a small and densely populated ward at the north east tip of the Borough bordering Hulme in Manchester to the east and Whalley Range to the south. Physically it is characterised by dense residential areas of Victorian terraced housing and a diverse range of housing stock. Clifford is also known for its very diverse population, vibrant communities and active community groups, some are established and there are some newer groups. Clifford is undergoing significant transformation with the Old Trafford Master Plan and there is a lot of change to current housing."},
 
       "Davyhulme East":{slugName:"Davyhulme_East", description:"Davyhulme East is in the north of Trafford and is bounded to the north by the Manchester Ship Canal and the Bridgewater Canal. The ward is home to the Trafford Centre, separated from the residential areas by the M60, the historical Barton Aqueduct, which crosses the Manchester Ship Canal and Barton Swing Bridge."},
 
@@ -508,7 +508,7 @@
 
       "Village":{slugName:"Village", description:"Village ward is on the eastern boundary of the Borough adjoining Manchester along Brooklands Road. To the south are Timperley wedge and the Bollin Valley and to the west the residential area of Timperley. Within the ward is the regeneration area of Broomwood, which contains a variety of greenspaces including Brooks Drive which runs from the A560 roundabout through the ward and forms part of a linear walkway and cycleway to link through to Davenport Green. Whilst the ward is fairly affluent it has pockets which face significant challenges."}}
 
-      document.getElementById("bar").innerHTML='<div class="eight0" ><object width="70%" type="image/svg+xml" data="https://www.trafforddatalab.io/info/wards/maps/' + nameObj[d.area_name]["slugName"] + '/output/figures/ward_plot.svg"></object></div>'
+      document.getElementById("bar").innerHTML='<div class="eight0" ><object width="70%" type="image/svg+xml" data="https://sheffwardprofiler.azurewebsites.net/spatial/' + nameObj[d.area_name]["slugName"] + '/ward_plot.svg"></object></div>'
       document.getElementById("description").innerHTML="<h3>" + d.area_name + "</h3><p>" + nameObj[d.area_name]["description"] + "</p>"
     }
 
