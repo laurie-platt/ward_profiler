@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Total resident population,2017-06-30,Count,Persons,12803
-E05000820,Ashton upon Mersey,Total resident population,2017-06-30,Count,Persons,10209
-E05000821,Bowdon,Total resident population,2017-06-30,Count,Persons,9549
-E05000822,Broadheath,Total resident population,2017-06-30,Count,Persons,13829
-E05000823,Brooklands,Total resident population,2017-06-30,Count,Persons,10701
-E05000824,Bucklow-St Martins,Total resident population,2017-06-30,Count,Persons,10605
-E05000825,Clifford,Total resident population,2017-06-30,Count,Persons,12248
-E05000826,Davyhulme East,Total resident population,2017-06-30,Count,Persons,9804
-E05000827,Davyhulme West,Total resident population,2017-06-30,Count,Persons,9980
-E05000828,Flixton,Total resident population,2017-06-30,Count,Persons,10807
-E05000829,Gorse Hill,Total resident population,2017-06-30,Count,Persons,12467
-E05000830,Hale Barns,Total resident population,2017-06-30,Count,Persons,10219
-E05000831,Hale Central,Total resident population,2017-06-30,Count,Persons,10820
-E05000832,Longford,Total resident population,2017-06-30,Count,Persons,12390
-E05000833,Priory,Total resident population,2017-06-30,Count,Persons,11633
-E05000834,St Mary's,Total resident population,2017-06-30,Count,Persons,11953
-E05000835,Sale Moor,Total resident population,2017-06-30,Count,Persons,10744
-E05000836,Stretford,Total resident population,2017-06-30,Count,Persons,11314
-E05000837,Timperley,Total resident population,2017-06-30,Count,Persons,11207
-E05000838,Urmston,Total resident population,2017-06-30,Count,Persons,11343
-E05000839,Village,Total resident population,2017-06-30,Count,Persons,10868
+E05010857,Beauchief and Greenhill,Total resident population,2017-06-30,Count,Persons,19712
+E05010858,Beighton,Total resident population,2017-06-30,Count,Persons,18165
+E05010859,Birley,Total resident population,2017-06-30,Count,Persons,17164
+E05010860,Broomhill and Sharrow Vale,Total resident population,2017-06-30,Count,Persons,24267
+E05010861,Burngreave,Total resident population,2017-06-30,Count,Persons,29901
+E05010862,City,Total resident population,2017-06-30,Count,Persons,25995
+E05010863,Crookes and Crosspool,Total resident population,2017-06-30,Count,Persons,18403
+E05010864,Darnall,Total resident population,2017-06-30,Count,Persons,22532
+E05010865,Dore and Totley,Total resident population,2017-06-30,Count,Persons,18506
+E05010866,East Ecclesfield,Total resident population,2017-06-30,Count,Persons,18065
+E05010867,Ecclesall,Total resident population,2017-06-30,Count,Persons,20381
+E05010868,Firth Park,Total resident population,2017-06-30,Count,Persons,22009
+E05010869,Fulwood,Total resident population,2017-06-30,Count,Persons,20365
+E05010870,Gleadless Valley,Total resident population,2017-06-30,Count,Persons,20937
+E05010871,Graves Park,Total resident population,2017-06-30,Count,Persons,16878
+E05010872,Hillsborough,Total resident population,2017-06-30,Count,Persons,20206
+E05010873,Manor Castle,Total resident population,2017-06-30,Count,Persons,23137
+E05010874,Mosborough,Total resident population,2017-06-30,Count,Persons,16848
+E05010875,Nether Edge and Sharrow,Total resident population,2017-06-30,Count,Persons,23232
+E05010876,Park and Arbourthorne,Total resident population,2017-06-30,Count,Persons,19410
+E05010877,Richmond,Total resident population,2017-06-30,Count,Persons,19450
+E05010878,Shiregreen and Brightside,Total resident population,2017-06-30,Count,Persons,21612
+E05010879,Southey,Total resident population,2017-06-30,Count,Persons,19942
+E05010880,Stannington,Total resident population,2017-06-30,Count,Persons,18709
+E05010881,Stocksbridge and Upper Don,Total resident population,2017-06-30,Count,Persons,18545
+E05010882,Walkley,Total resident population,2017-06-30,Count,Persons,28077
+E05010883,West Ecclesfield,Total resident population,2017-06-30,Count,Persons,17493
+E05010884,Woodhouse,Total resident population,2017-06-30,Count,Persons,17848
