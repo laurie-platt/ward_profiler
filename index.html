@@ -285,7 +285,7 @@
   currentTheme = ""
   var currentDatasetList=[]
   //Load geojson and create the theme selector
-  var geoJsonUrl="https://www.trafforddatalab.io/spatial_data/ward/2017/trafford_ward_super_generalised.geojson"
+  var geoJsonUrl="https://sheffwardprofiler.azurewebsites.net/spatial/sheffield_ward_super_generalised.geojson"
   d3.json(geoJsonUrl, function (error, json1) {
     json=json1;
     themeSelector()
