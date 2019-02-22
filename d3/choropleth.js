@@ -29,7 +29,7 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
   var projection = d3.geoMercator()
       .center([ -1.470085, 53.381129 ])
       .translate([width/2, height/2])
-      .scale([width * 300]);
+      .scale([width * 100]);
   var path = d3.geoPath()
       .projection(projection);
   var quantize = d3.scaleQuantize()
