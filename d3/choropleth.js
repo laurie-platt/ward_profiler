@@ -27,9 +27,9 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
        .attr("viewBox", "0 0 " + width + " " + height)
        .attr("preserveAspectRatio", "xMinYMin meet")
   var projection = d3.geoMercator()
-      .center([ -2.35533605967,53.4190090526 ])
+      .center([ -1.470085, 53.381129 ])
       .translate([width/2, height/2])
-      .scale([width * 200]);
+      .scale([width * 300]);
   var path = d3.geoPath()
       .projection(projection);
   var quantize = d3.scaleQuantize()
