@@ -64,11 +64,11 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
               // Legend
               var g = svg.append("g")
                   .attr("class", "legend")
-                  .attr("transform", "translate(480,380)");
+                  .attr("transform", "translate(480,80)");
               g.append("text")
                   .attr("class", "legendTitle")
                   .attr("x", 0)
-                  .attr("y", 40)
+                  .attr("y", -10)
                   .text(legendTitle);
               var legend = d3.legendColor()
                   .labelFormat(d3.format(numDigits))
