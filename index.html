@@ -419,6 +419,8 @@
     }
     //load svg's of Wards and map selector
     function initialPage(){
+      debugger;
+      
       document.getElementById("pageTitle").innerHTML="Sheffield ward profiler"
       var newurl = window.location.protocol + "//" + window.location.host + window.location.pathname
       window.history.pushState({path:newurl},'',newurl);
