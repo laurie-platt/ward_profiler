@@ -68,7 +68,7 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
               g.append("text")
                   .attr("class", "legendTitle")
                   .attr("x", 0)
-                  .attr("y", -10)
+                  .attr("y", 40)
                   .text(legendTitle);
               var legend = d3.legendColor()
                   .labelFormat(d3.format(numDigits))
