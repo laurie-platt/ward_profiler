@@ -13,7 +13,7 @@ file.remove("sape20dt8mid2017ward2017syoaestimatesunformatted1.zip")
 
 df <- read_excel("SAPE20DT8-mid-2017-ward-2017-syoa-estimates-unformatted.xls",
                  sheet = 4, skip = 3) %>%
-  filter(`Local Authority` == 'Trafford') %>%
+  filter(`Local Authority` == 'Sheffield') %>%
   mutate(period = as.Date("2017-06-30", format = '%Y-%m-%d'),
          indicator = "Population aged 65 or more years",
          measure = "Percentage",

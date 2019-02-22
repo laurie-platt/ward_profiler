@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.9
-E05000820,Ashton upon Mersey,Population aged 80 or more years,2017-06-30,Percentage,Persons,6
-E05000821,Bowdon,Population aged 80 or more years,2017-06-30,Percentage,Persons,8.5
-E05000822,Broadheath,Population aged 80 or more years,2017-06-30,Percentage,Persons,3.6
-E05000823,Brooklands,Population aged 80 or more years,2017-06-30,Percentage,Persons,6
-E05000824,Bucklow-St Martins,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.3
-E05000825,Clifford,Population aged 80 or more years,2017-06-30,Percentage,Persons,3.1
-E05000826,Davyhulme East,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.7
-E05000827,Davyhulme West,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.8
-E05000828,Flixton,Population aged 80 or more years,2017-06-30,Percentage,Persons,6.6
-E05000829,Gorse Hill,Population aged 80 or more years,2017-06-30,Percentage,Persons,2.8
-E05000830,Hale Barns,Population aged 80 or more years,2017-06-30,Percentage,Persons,7.9
-E05000831,Hale Central,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.2
-E05000832,Longford,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.1
-E05000833,Priory,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.5
-E05000834,St Mary's,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.9
-E05000835,Sale Moor,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.9
-E05000836,Stretford,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.1
-E05000837,Timperley,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.2
-E05000838,Urmston,Population aged 80 or more years,2017-06-30,Percentage,Persons,7
-E05000839,Village,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.6
+E05010857,Beauchief and Greenhill,Population aged 80 or more years,2017-06-30,Percentage,Persons,6.5
+E05010858,Beighton,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.6
+E05010859,Birley,Population aged 80 or more years,2017-06-30,Percentage,Persons,6.9
+E05010860,Broomhill and Sharrow Vale,Population aged 80 or more years,2017-06-30,Percentage,Persons,2.1
+E05010861,Burngreave,Population aged 80 or more years,2017-06-30,Percentage,Persons,3.7
+E05010862,City,Population aged 80 or more years,2017-06-30,Percentage,Persons,0.4
+E05010863,Crookes and Crosspool,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.8
+E05010864,Darnall,Population aged 80 or more years,2017-06-30,Percentage,Persons,3.4
+E05010865,Dore and Totley,Population aged 80 or more years,2017-06-30,Percentage,Persons,8.3
+E05010866,East Ecclesfield,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.8
+E05010867,Ecclesall,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.7
+E05010868,Firth Park,Population aged 80 or more years,2017-06-30,Percentage,Persons,3.9
+E05010869,Fulwood,Population aged 80 or more years,2017-06-30,Percentage,Persons,5
+E05010870,Gleadless Valley,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.3
+E05010871,Graves Park,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.8
+E05010872,Hillsborough,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.1
+E05010873,Manor Castle,Population aged 80 or more years,2017-06-30,Percentage,Persons,2.9
+E05010874,Mosborough,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.8
+E05010875,Nether Edge and Sharrow,Population aged 80 or more years,2017-06-30,Percentage,Persons,3
+E05010876,Park and Arbourthorne,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.1
+E05010877,Richmond,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.6
+E05010878,Shiregreen and Brightside,Population aged 80 or more years,2017-06-30,Percentage,Persons,3.5
+E05010879,Southey,Population aged 80 or more years,2017-06-30,Percentage,Persons,4.7
+E05010880,Stannington,Population aged 80 or more years,2017-06-30,Percentage,Persons,6.5
+E05010881,Stocksbridge and Upper Don,Population aged 80 or more years,2017-06-30,Percentage,Persons,5.6
+E05010882,Walkley,Population aged 80 or more years,2017-06-30,Percentage,Persons,2.8
+E05010883,West Ecclesfield,Population aged 80 or more years,2017-06-30,Percentage,Persons,6.2
+E05010884,Woodhouse,Population aged 80 or more years,2017-06-30,Percentage,Persons,6.6

@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Population change (2007 to 2017),2017-06-30,Percentage,Persons,25.4
-E05000820,Ashton upon Mersey,Population change (2007 to 2017),2017-06-30,Percentage,Persons,12.1
-E05000821,Bowdon,Population change (2007 to 2017),2017-06-30,Percentage,Persons,4.2
-E05000822,Broadheath,Population change (2007 to 2017),2017-06-30,Percentage,Persons,24.4
-E05000823,Brooklands,Population change (2007 to 2017),2017-06-30,Percentage,Persons,7.9
-E05000824,Bucklow-St Martins,Population change (2007 to 2017),2017-06-30,Percentage,Persons,10.7
-E05000825,Clifford,Population change (2007 to 2017),2017-06-30,Percentage,Persons,13.6
-E05000826,Davyhulme East,Population change (2007 to 2017),2017-06-30,Percentage,Persons,-3.2
-E05000827,Davyhulme West,Population change (2007 to 2017),2017-06-30,Percentage,Persons,2.2
-E05000828,Flixton,Population change (2007 to 2017),2017-06-30,Percentage,Persons,1.8
-E05000829,Gorse Hill,Population change (2007 to 2017),2017-06-30,Percentage,Persons,15.8
-E05000830,Hale Barns,Population change (2007 to 2017),2017-06-30,Percentage,Persons,9.8
-E05000831,Hale Central,Population change (2007 to 2017),2017-06-30,Percentage,Persons,15.3
-E05000832,Longford,Population change (2007 to 2017),2017-06-30,Percentage,Persons,10.8
-E05000833,Priory,Population change (2007 to 2017),2017-06-30,Percentage,Persons,19.6
-E05000834,St Mary's,Population change (2007 to 2017),2017-06-30,Percentage,Persons,2.3
-E05000835,Sale Moor,Population change (2007 to 2017),2017-06-30,Percentage,Persons,9.7
-E05000836,Stretford,Population change (2007 to 2017),2017-06-30,Percentage,Persons,8.7
-E05000837,Timperley,Population change (2007 to 2017),2017-06-30,Percentage,Persons,5.7
-E05000838,Urmston,Population change (2007 to 2017),2017-06-30,Percentage,Persons,11.8
-E05000839,Village,Population change (2007 to 2017),2017-06-30,Percentage,Persons,9.8
+E05001039,Arbourthorne,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001040,Beauchief and Greenhill,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001041,Beighton,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001042,Birley,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001043,Broomhill,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001044,Burngreave,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001045,Central,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001046,Crookes,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001047,Darnall,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001048,Dore and Totley,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001049,East Ecclesfield,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001050,Ecclesall,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001051,Firth Park,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001052,Fulwood,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001053,Gleadless Valley,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001054,Graves Park,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001055,Hillsborough,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001056,Manor Castle,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001057,Mosborough,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001058,Nether Edge,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001059,Richmond,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001060,Shiregreen and Brightside,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001061,Southey,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001062,Stannington,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001063,Stocksbridge and Upper Don,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001064,Walkley,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001065,West Ecclesfield,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA
+E05001066,Woodhouse,Population change (2007 to 2017),2017-06-30,Percentage,Persons,NA

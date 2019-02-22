@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Population aged 20-44 years,2017-06-30,Percentage,Persons,35.9
-E05000820,Ashton upon Mersey,Population aged 20-44 years,2017-06-30,Percentage,Persons,30
-E05000821,Bowdon,Population aged 20-44 years,2017-06-30,Percentage,Persons,21.8
-E05000822,Broadheath,Population aged 20-44 years,2017-06-30,Percentage,Persons,33.8
-E05000823,Brooklands,Population aged 20-44 years,2017-06-30,Percentage,Persons,28.5
-E05000824,Bucklow-St Martins,Population aged 20-44 years,2017-06-30,Percentage,Persons,29.8
-E05000825,Clifford,Population aged 20-44 years,2017-06-30,Percentage,Persons,38.6
-E05000826,Davyhulme East,Population aged 20-44 years,2017-06-30,Percentage,Persons,27.9
-E05000827,Davyhulme West,Population aged 20-44 years,2017-06-30,Percentage,Persons,25.8
-E05000828,Flixton,Population aged 20-44 years,2017-06-30,Percentage,Persons,27.1
-E05000829,Gorse Hill,Population aged 20-44 years,2017-06-30,Percentage,Persons,36.6
-E05000830,Hale Barns,Population aged 20-44 years,2017-06-30,Percentage,Persons,22.7
-E05000831,Hale Central,Population aged 20-44 years,2017-06-30,Percentage,Persons,28.9
-E05000832,Longford,Population aged 20-44 years,2017-06-30,Percentage,Persons,34.9
-E05000833,Priory,Population aged 20-44 years,2017-06-30,Percentage,Persons,38.9
-E05000834,St Mary's,Population aged 20-44 years,2017-06-30,Percentage,Persons,27.3
-E05000835,Sale Moor,Population aged 20-44 years,2017-06-30,Percentage,Persons,32.2
-E05000836,Stretford,Population aged 20-44 years,2017-06-30,Percentage,Persons,32.8
-E05000837,Timperley,Population aged 20-44 years,2017-06-30,Percentage,Persons,27.1
-E05000838,Urmston,Population aged 20-44 years,2017-06-30,Percentage,Persons,30.2
-E05000839,Village,Population aged 20-44 years,2017-06-30,Percentage,Persons,26.5
+E05010857,Beauchief and Greenhill,Population aged 20-44 years,2017-06-30,Percentage,Persons,29.6
+E05010858,Beighton,Population aged 20-44 years,2017-06-30,Percentage,Persons,29.1
+E05010859,Birley,Population aged 20-44 years,2017-06-30,Percentage,Persons,29.5
+E05010860,Broomhill and Sharrow Vale,Population aged 20-44 years,2017-06-30,Percentage,Persons,67.3
+E05010861,Burngreave,Population aged 20-44 years,2017-06-30,Percentage,Persons,35
+E05010862,City,Population aged 20-44 years,2017-06-30,Percentage,Persons,74.2
+E05010863,Crookes and Crosspool,Population aged 20-44 years,2017-06-30,Percentage,Persons,47.2
+E05010864,Darnall,Population aged 20-44 years,2017-06-30,Percentage,Persons,37.3
+E05010865,Dore and Totley,Population aged 20-44 years,2017-06-30,Percentage,Persons,22
+E05010866,East Ecclesfield,Population aged 20-44 years,2017-06-30,Percentage,Persons,27.9
+E05010867,Ecclesall,Population aged 20-44 years,2017-06-30,Percentage,Persons,27.3
+E05010868,Firth Park,Population aged 20-44 years,2017-06-30,Percentage,Persons,32.3
+E05010869,Fulwood,Population aged 20-44 years,2017-06-30,Percentage,Persons,31
+E05010870,Gleadless Valley,Population aged 20-44 years,2017-06-30,Percentage,Persons,37.2
+E05010871,Graves Park,Population aged 20-44 years,2017-06-30,Percentage,Persons,31.9
+E05010872,Hillsborough,Population aged 20-44 years,2017-06-30,Percentage,Persons,37.1
+E05010873,Manor Castle,Population aged 20-44 years,2017-06-30,Percentage,Persons,41.6
+E05010874,Mosborough,Population aged 20-44 years,2017-06-30,Percentage,Persons,30.1
+E05010875,Nether Edge and Sharrow,Population aged 20-44 years,2017-06-30,Percentage,Persons,47.8
+E05010876,Park and Arbourthorne,Population aged 20-44 years,2017-06-30,Percentage,Persons,35.2
+E05010877,Richmond,Population aged 20-44 years,2017-06-30,Percentage,Persons,30.1
+E05010878,Shiregreen and Brightside,Population aged 20-44 years,2017-06-30,Percentage,Persons,34.3
+E05010879,Southey,Population aged 20-44 years,2017-06-30,Percentage,Persons,31.8
+E05010880,Stannington,Population aged 20-44 years,2017-06-30,Percentage,Persons,26.1
+E05010881,Stocksbridge and Upper Don,Population aged 20-44 years,2017-06-30,Percentage,Persons,28.1
+E05010882,Walkley,Population aged 20-44 years,2017-06-30,Percentage,Persons,53.9
+E05010883,West Ecclesfield,Population aged 20-44 years,2017-06-30,Percentage,Persons,26.2
+E05010884,Woodhouse,Population aged 20-44 years,2017-06-30,Percentage,Persons,30

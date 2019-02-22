@@ -13,7 +13,7 @@ unzip("rft---mid-2007-quinary-estimates-for-2009-wards%20(1).zip", exdir = ".")
 file.remove("rft---mid-2007-quinary-estimates-for-2009-wards%20(1).zip")
 
 df_2007 <- read_excel("mid_2007_ward_2009_quinary.xls", sheet = 2, skip = 3) %>%
-  filter(`Local Authority` == 'Trafford') %>%
+  filter(`Local Authority` == 'Sheffield') %>%
   select(area_code = `New Code`,
          area_name = `Ward Name`,
          pop_07 = `All Ages`) %>%

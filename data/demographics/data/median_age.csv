@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Median age,2017-06-30,Median,Persons,37
-E05000820,Ashton upon Mersey,Median age,2017-06-30,Median,Persons,41
-E05000821,Bowdon,Median age,2017-06-30,Median,Persons,46
-E05000822,Broadheath,Median age,2017-06-30,Median,Persons,36
-E05000823,Brooklands,Median age,2017-06-30,Median,Persons,41
-E05000824,Bucklow-St Martins,Median age,2017-06-30,Median,Persons,35
-E05000825,Clifford,Median age,2017-06-30,Median,Persons,32
-E05000826,Davyhulme East,Median age,2017-06-30,Median,Persons,42
-E05000827,Davyhulme West,Median age,2017-06-30,Median,Persons,44
-E05000828,Flixton,Median age,2017-06-30,Median,Persons,44
-E05000829,Gorse Hill,Median age,2017-06-30,Median,Persons,34
-E05000830,Hale Barns,Median age,2017-06-30,Median,Persons,44
-E05000831,Hale Central,Median age,2017-06-30,Median,Persons,39
-E05000832,Longford,Median age,2017-06-30,Median,Persons,35
-E05000833,Priory,Median age,2017-06-30,Median,Persons,37
-E05000834,St Mary's,Median age,2017-06-30,Median,Persons,41
-E05000835,Sale Moor,Median age,2017-06-30,Median,Persons,38
-E05000836,Stretford,Median age,2017-06-30,Median,Persons,37
-E05000837,Timperley,Median age,2017-06-30,Median,Persons,42
-E05000838,Urmston,Median age,2017-06-30,Median,Persons,41
-E05000839,Village,Median age,2017-06-30,Median,Persons,41
+E05010857,Beauchief and Greenhill,Median age,2017-06-30,Median,Persons,40
+E05010858,Beighton,Median age,2017-06-30,Median,Persons,44
+E05010859,Birley,Median age,2017-06-30,Median,Persons,43
+E05010860,Broomhill and Sharrow Vale,Median age,2017-06-30,Median,Persons,22
+E05010861,Burngreave,Median age,2017-06-30,Median,Persons,28
+E05010862,City,Median age,2017-06-30,Median,Persons,22
+E05010863,Crookes and Crosspool,Median age,2017-06-30,Median,Persons,31
+E05010864,Darnall,Median age,2017-06-30,Median,Persons,30
+E05010865,Dore and Totley,Median age,2017-06-30,Median,Persons,48
+E05010866,East Ecclesfield,Median age,2017-06-30,Median,Persons,45
+E05010867,Ecclesall,Median age,2017-06-30,Median,Persons,41
+E05010868,Firth Park,Median age,2017-06-30,Median,Persons,33
+E05010869,Fulwood,Median age,2017-06-30,Median,Persons,30
+E05010870,Gleadless Valley,Median age,2017-06-30,Median,Persons,35
+E05010871,Graves Park,Median age,2017-06-30,Median,Persons,42
+E05010872,Hillsborough,Median age,2017-06-30,Median,Persons,37
+E05010873,Manor Castle,Median age,2017-06-30,Median,Persons,30
+E05010874,Mosborough,Median age,2017-06-30,Median,Persons,43
+E05010875,Nether Edge and Sharrow,Median age,2017-06-30,Median,Persons,30
+E05010876,Park and Arbourthorne,Median age,2017-06-30,Median,Persons,36
+E05010877,Richmond,Median age,2017-06-30,Median,Persons,42
+E05010878,Shiregreen and Brightside,Median age,2017-06-30,Median,Persons,34
+E05010879,Southey,Median age,2017-06-30,Median,Persons,36
+E05010880,Stannington,Median age,2017-06-30,Median,Persons,45
+E05010881,Stocksbridge and Upper Don,Median age,2017-06-30,Median,Persons,44
+E05010882,Walkley,Median age,2017-06-30,Median,Persons,26
+E05010883,West Ecclesfield,Median age,2017-06-30,Median,Persons,46
+E05010884,Woodhouse,Median age,2017-06-30,Median,Persons,42

@@ -18,7 +18,7 @@ file.remove("sape20dt8mid2017ward2017syoaestimatesunformatted1.zip")
 
 df <- read_excel("SAPE20DT8-mid-2017-ward-2017-syoa-estimates-unformatted.xls",
                  sheet = 4, skip = 3) %>%
-  filter(`Local Authority` == 'Trafford') %>%
+  filter(`Local Authority` == 'Sheffield') %>%
   select(area_code = `Ward Code 1`,
          area_name = `Ward Name 1`,
          `All Ages`) %>%

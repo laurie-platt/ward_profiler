@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.5
-E05000820,Ashton upon Mersey,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.6
-E05000821,Bowdon,Population aged 0-15 years,2017-06-30,Percentage,Persons,19.7
-E05000822,Broadheath,Population aged 0-15 years,2017-06-30,Percentage,Persons,23.7
-E05000823,Brooklands,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.7
-E05000824,Bucklow-St Martins,Population aged 0-15 years,2017-06-30,Percentage,Persons,25.3
-E05000825,Clifford,Population aged 0-15 years,2017-06-30,Percentage,Persons,23.7
-E05000826,Davyhulme East,Population aged 0-15 years,2017-06-30,Percentage,Persons,19.1
-E05000827,Davyhulme West,Population aged 0-15 years,2017-06-30,Percentage,Persons,19.1
-E05000828,Flixton,Population aged 0-15 years,2017-06-30,Percentage,Persons,18.1
-E05000829,Gorse Hill,Population aged 0-15 years,2017-06-30,Percentage,Persons,23.4
-E05000830,Hale Barns,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.4
-E05000831,Hale Central,Population aged 0-15 years,2017-06-30,Percentage,Persons,23.1
-E05000832,Longford,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.5
-E05000833,Priory,Population aged 0-15 years,2017-06-30,Percentage,Persons,19.4
-E05000834,St Mary's,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.4
-E05000835,Sale Moor,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.7
-E05000836,Stretford,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.9
-E05000837,Timperley,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.8
-E05000838,Urmston,Population aged 0-15 years,2017-06-30,Percentage,Persons,18.2
-E05000839,Village,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.4
+E05010857,Beauchief and Greenhill,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.2
+E05010858,Beighton,Population aged 0-15 years,2017-06-30,Percentage,Persons,16.7
+E05010859,Birley,Population aged 0-15 years,2017-06-30,Percentage,Persons,17
+E05010860,Broomhill and Sharrow Vale,Population aged 0-15 years,2017-06-30,Percentage,Persons,9.5
+E05010861,Burngreave,Population aged 0-15 years,2017-06-30,Percentage,Persons,30.6
+E05010862,City,Population aged 0-15 years,2017-06-30,Percentage,Persons,4.1
+E05010863,Crookes and Crosspool,Population aged 0-15 years,2017-06-30,Percentage,Persons,14
+E05010864,Darnall,Population aged 0-15 years,2017-06-30,Percentage,Persons,26.7
+E05010865,Dore and Totley,Population aged 0-15 years,2017-06-30,Percentage,Persons,17.7
+E05010866,East Ecclesfield,Population aged 0-15 years,2017-06-30,Percentage,Persons,15.9
+E05010867,Ecclesall,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.1
+E05010868,Firth Park,Population aged 0-15 years,2017-06-30,Percentage,Persons,25.2
+E05010869,Fulwood,Population aged 0-15 years,2017-06-30,Percentage,Persons,13.2
+E05010870,Gleadless Valley,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.4
+E05010871,Graves Park,Population aged 0-15 years,2017-06-30,Percentage,Persons,16.7
+E05010872,Hillsborough,Population aged 0-15 years,2017-06-30,Percentage,Persons,18
+E05010873,Manor Castle,Population aged 0-15 years,2017-06-30,Percentage,Persons,20.9
+E05010874,Mosborough,Population aged 0-15 years,2017-06-30,Percentage,Persons,16.7
+E05010875,Nether Edge and Sharrow,Population aged 0-15 years,2017-06-30,Percentage,Persons,18.6
+E05010876,Park and Arbourthorne,Population aged 0-15 years,2017-06-30,Percentage,Persons,18.4
+E05010877,Richmond,Population aged 0-15 years,2017-06-30,Percentage,Persons,18
+E05010878,Shiregreen and Brightside,Population aged 0-15 years,2017-06-30,Percentage,Persons,23.6
+E05010879,Southey,Population aged 0-15 years,2017-06-30,Percentage,Persons,21.8
+E05010880,Stannington,Population aged 0-15 years,2017-06-30,Percentage,Persons,16.8
+E05010881,Stocksbridge and Upper Don,Population aged 0-15 years,2017-06-30,Percentage,Persons,17.2
+E05010882,Walkley,Population aged 0-15 years,2017-06-30,Percentage,Persons,11.8
+E05010883,West Ecclesfield,Population aged 0-15 years,2017-06-30,Percentage,Persons,16.2
+E05010884,Woodhouse,Population aged 0-15 years,2017-06-30,Percentage,Persons,17.9
