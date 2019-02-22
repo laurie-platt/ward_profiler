@@ -235,7 +235,7 @@
 <body>
   <div class="header clearb">
     <div class="clearb" onclick="initialPage()">
-      <div id="labLogo"><a href="https://www.sheffield.gov.uk" target="_blank"><img src="assets/scc_logo.svg" alt="Sheffield City COuncil" width="186" height="62" class="traffordDataLabLogo"/></a></div>
+      <div id="labLogo"><a href="https://www.sheffield.gov.uk" target="_blank"><img src="assets/scc_logo.svg" alt="Sheffield City Council" width="186" height="62" class="traffordDataLabLogo"/></a></div>
       <div id="headerTitle" onclick="initialPage()">Sheffield ward profiler</div>
     </div>
   </div>
@@ -261,10 +261,12 @@
 </div>
   <script type="text/javascript">
 
+  debugger;
+  
   window.onpopstate = function(event) {
     window.location.reload(true)
   };
-
+  
   themeUrls=[{theme:"Communications", url:"https://sheffwardprofiler.azurewebsites.net/data/communications/meta.csv"},
   {theme:"Community safety", url:"https://sheffwardprofiler.azurewebsites.net/data/community_safety/meta.csv"},
   {theme:"Demographics", url:"https://sheffwardprofiler.azurewebsites.net/data/demographics/meta.csv"},
