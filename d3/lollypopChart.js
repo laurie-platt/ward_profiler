@@ -41,7 +41,7 @@ function lollypopChart(obj){
   var lollyPC = svg.append("g")
   .attr("width", widthG)
   .attr("height", heightG)
-  .attr("transform", "translate(" + (margin.left+widthG/4) + "," + margin.top + ")");
+  .attr("transform", "translate(" + (margin.left+widthG/5) + "," + margin.top + ")");
 
   //create Scales
   var hx = d3.scaleLinear()
