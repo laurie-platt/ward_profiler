@@ -64,7 +64,7 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
               // Legend
               var g = svg.append("g")
                   .attr("class", "legend")
-                  .attr("transform", "translate(480,80)");
+                  .attr("transform", "translate(480,50)");
               g.append("text")
                   .attr("class", "legendTitle")
                   .attr("x", 0)
