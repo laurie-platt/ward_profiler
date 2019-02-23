@@ -27,7 +27,7 @@ function lollypopChart(obj){
 
   //width height and margins
 
-  var margin = {top: 25, right: 70, bottom: 20, left: 20};
+  var margin = {top: 10, right: 70, bottom: 20, left: 20};
 
   var widthG = width - margin.left - margin.right;
   var heightG = height - margin.top - margin.bottom;

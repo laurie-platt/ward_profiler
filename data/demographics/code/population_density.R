@@ -7,7 +7,7 @@
 library(tidyverse) ; library(sf) ; library(units) ; library(readxl)
 
 sf <- st_read("https://opendata.arcgis.com/datasets/07194e4507ae491488471c84b23a90f2_0.geojson") %>%
-  filter(wd17cd %in% paste0("E0", seq(5000819, 5000839, 1))) %>%
+  filter(wd17cd %in% paste0("E0", seq(5001039, 5001066, 1))) %>%
   mutate(area = as.numeric(set_units(st_area(.), km^2))) %>%
   select(area_code = wd17cd, area)
 

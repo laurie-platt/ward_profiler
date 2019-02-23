@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,EU born residents,2011,Percentage,Persons,3.9
-E05000820,Ashton upon Mersey,EU born residents,2011,Percentage,Persons,1.8
-E05000821,Bowdon,EU born residents,2011,Percentage,Persons,2.5
-E05000822,Broadheath,EU born residents,2011,Percentage,Persons,2.6
-E05000823,Brooklands,EU born residents,2011,Percentage,Persons,1.8
-E05000824,Bucklow-St Martins,EU born residents,2011,Percentage,Persons,1.9
-E05000825,Clifford,EU born residents,2011,Percentage,Persons,5
-E05000826,Davyhulme East,EU born residents,2011,Percentage,Persons,0.9
-E05000827,Davyhulme West,EU born residents,2011,Percentage,Persons,0.9
-E05000828,Flixton,EU born residents,2011,Percentage,Persons,0.9
-E05000829,Gorse Hill,EU born residents,2011,Percentage,Persons,2.8
-E05000830,Hale Barns,EU born residents,2011,Percentage,Persons,2
-E05000831,Hale Central,EU born residents,2011,Percentage,Persons,3.1
-E05000832,Longford,EU born residents,2011,Percentage,Persons,4.3
-E05000833,Priory,EU born residents,2011,Percentage,Persons,3
-E05000834,St Mary's,EU born residents,2011,Percentage,Persons,2
-E05000835,Sale Moor,EU born residents,2011,Percentage,Persons,1.9
-E05000836,Stretford,EU born residents,2011,Percentage,Persons,3.6
-E05000837,Timperley,EU born residents,2011,Percentage,Persons,1.4
-E05000838,Urmston,EU born residents,2011,Percentage,Persons,1.4
-E05000839,Village,EU born residents,2011,Percentage,Persons,1.4
+E05001039,Arbourthorne,EU born residents,2011,Percentage,Persons,2.1
+E05001040,Beauchief and Greenhill,EU born residents,2011,Percentage,Persons,1.3
+E05001041,Beighton,EU born residents,2011,Percentage,Persons,1
+E05001042,Birley,EU born residents,2011,Percentage,Persons,0.9
+E05001043,Broomhill,EU born residents,2011,Percentage,Persons,3.4
+E05001044,Burngreave,EU born residents,2011,Percentage,Persons,4.4
+E05001045,Central,EU born residents,2011,Percentage,Persons,5.1
+E05001046,Crookes,EU born residents,2011,Percentage,Persons,2.4
+E05001047,Darnall,EU born residents,2011,Percentage,Persons,3.4
+E05001048,Dore and Totley,EU born residents,2011,Percentage,Persons,1.2
+E05001049,East Ecclesfield,EU born residents,2011,Percentage,Persons,0.7
+E05001050,Ecclesall,EU born residents,2011,Percentage,Persons,1.6
+E05001051,Firth Park,EU born residents,2011,Percentage,Persons,1.6
+E05001052,Fulwood,EU born residents,2011,Percentage,Persons,2.2
+E05001053,Gleadless Valley,EU born residents,2011,Percentage,Persons,2.3
+E05001054,Graves Park,EU born residents,2011,Percentage,Persons,1.5
+E05001055,Hillsborough,EU born residents,2011,Percentage,Persons,1.6
+E05001056,Manor Castle,EU born residents,2011,Percentage,Persons,4
+E05001057,Mosborough,EU born residents,2011,Percentage,Persons,1.3
+E05001058,Nether Edge,EU born residents,2011,Percentage,Persons,3.2
+E05001059,Richmond,EU born residents,2011,Percentage,Persons,1.1
+E05001060,Shiregreen and Brightside,EU born residents,2011,Percentage,Persons,2.2
+E05001061,Southey,EU born residents,2011,Percentage,Persons,1.1
+E05001062,Stannington,EU born residents,2011,Percentage,Persons,0.9
+E05001063,Stocksbridge and Upper Don,EU born residents,2011,Percentage,Persons,0.7
+E05001064,Walkley,EU born residents,2011,Percentage,Persons,2.9
+E05001065,West Ecclesfield,EU born residents,2011,Percentage,Persons,0.7
+E05001066,Woodhouse,EU born residents,2011,Percentage,Persons,0.8
