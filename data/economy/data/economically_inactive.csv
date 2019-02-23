@@ -1,22 +1,29 @@
 area_code,area_name,indicator,period,measure,unit,value
-E05000819,Altrincham,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,22.1
-E05000820,Ashton upon Mersey,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,25.9
-E05000821,Bowdon,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30
-E05000822,Broadheath,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,22.3
-E05000823,Brooklands,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,25.5
-E05000824,Bucklow-St Martins,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,34.3
-E05000825,Clifford,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,35.4
-E05000826,Davyhulme East,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,27.5
-E05000827,Davyhulme West,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,29.5
-E05000828,Flixton,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,26.4
-E05000829,Gorse Hill,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,25.3
-E05000830,Hale Barns,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,32.9
-E05000831,Hale Central,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,22.2
-E05000832,Longford,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,31
-E05000833,Priory,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,21.5
-E05000834,St Mary's,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,31
-E05000835,Sale Moor,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,27.2
-E05000836,Stretford,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,28.3
-E05000837,Timperley,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,25.2
-E05000838,Urmston,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,25.3
-E05000839,Village,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30.3
+E05001039,Arbourthorne,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,36.1
+E05001040,Beauchief and Greenhill,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,33.6
+E05001041,Beighton,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,26.6
+E05001042,Birley,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30
+E05001043,Broomhill,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,47.1
+E05001044,Burngreave,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,42.1
+E05001045,Central,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,47.3
+E05001046,Crookes,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,34.5
+E05001047,Darnall,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,38.4
+E05001048,Dore and Totley,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30.9
+E05001049,East Ecclesfield,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,28.8
+E05001050,Ecclesall,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,26.3
+E05001051,Firth Park,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,39.4
+E05001052,Fulwood,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,42.3
+E05001053,Gleadless Valley,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,29.1
+E05001054,Graves Park,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,24.6
+E05001055,Hillsborough,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,24.6
+E05001056,Manor Castle,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,37.5
+E05001057,Mosborough,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,27.1
+E05001058,Nether Edge,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,26.2
+E05001059,Richmond,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30
+E05001060,Shiregreen and Brightside,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,32.5
+E05001061,Southey,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,34.5
+E05001062,Stannington,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,29.1
+E05001063,Stocksbridge and Upper Don,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30.7
+E05001064,Walkley,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,40.6
+E05001065,West Ecclesfield,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,30.2
+E05001066,Woodhouse,Adults aged 16-74 who are economically inactive,2011,Percentage,Persons,31.5
