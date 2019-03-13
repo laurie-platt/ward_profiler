@@ -93,7 +93,7 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
                 .style("fill", "#757575")
                 // Source label
                 svg.append("text")
-                  .attr("transform", "translate(10, 430)")
+                  .attr("transform", "translate(10, 450)")
                   .attr("class", "choroSource")
                   .text(source)
                   .style("font-family", "Roboto")
@@ -101,7 +101,7 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
                   .style("fill", "#757575");
                   //copyright
                 svg.append("text")
-                  .attr("transform", "translate(10, 555)")
+                  .attr("transform", "translate(10, 470)")
                   .attr("class", "choroNote")
                   .text("Contains National Statistics and OS data © Crown copyright and database right " + newDate.getFullYear())
                   .style("font-family", "Roboto")
