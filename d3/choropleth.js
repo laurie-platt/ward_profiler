@@ -93,7 +93,7 @@ var numDigits = (not_decimal<0)?",.0f":",." + (char_array.length - not_decimal -
                 .style("fill", "#757575")
                 // Source label
                 svg.append("text")
-                  .attr("transform", "translate(10, 400)")
+                  .attr("transform", "translate(10, 430)")
                   .attr("class", "choroSource")
                   .text(source)
                   .style("font-family", "Roboto")
