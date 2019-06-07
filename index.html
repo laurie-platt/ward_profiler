@@ -3,11 +3,11 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto"/>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans|Roboto"/>
+  <link rel="stylesheet" href="http://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
   <title id="pageTitle">Sheffield ward profiler</title>
-  <script src="https://d3js.org/d3.v4.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+  <script src="http://d3js.org/d3.v4.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
   <script src="assets/labGetQryStrValByKey.js"></script>
   <script src="d3/choropleth.js"></script>
   <script src="d3/lollypopChart.js"></script>
@@ -30,7 +30,7 @@
   @font-face
   {
     font-family: 'Roboto', sans-serif;
-    src: url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto'");
+    src: url("http://fonts.googleapis.com/css?family=Open+Sans|Roboto'");
   }
   h3, .placeLabel, .legend, .legendTitle, #bestFitLegend, #datasetDescription, #description, #download,
   .header, .choroTitle, .choroSubtitle, .choroSource, .choroNote, .valueLabel, .tickLabel
@@ -230,7 +230,7 @@
 <body>
   <div class="header clearb">
     <div class="clearb" onclick="initialPage()">
-      <div id="headerTitle" onclick="initialPage()">Sheffield ward profiler (SIDE prototype - try the demographics theme)</div>
+      <div id="headerTitle" onclick="initialPage()">Sheffield ward profiler (CHANGE prototype - try the demographics theme)</div>
     </div>
   </div>
   <div id="main" class="clearb">
@@ -261,22 +261,22 @@
     window.location.reload(true)
   };
   
-  themeUrls=[{theme:"Communications", url:"https://sheffwardprofiler.azurewebsites.net/data/communications/meta.csv"},
-  {theme:"Community safety", url:"https://sheffwardprofiler.azurewebsites.net/data/community_safety/meta.csv"},
-  {theme:"Demographics", url:"https://sheffwardprofiler.azurewebsites.net/data/demographics/meta.csv"},
-  {theme:"Deprivation", url:"https://sheffwardprofiler.azurewebsites.net/data/deprivation/meta.csv"},
-  {theme:"Economy", url:"https://sheffwardprofiler.azurewebsites.net/data/economy/meta.csv"},
-  {theme:"Education", url:"https://sheffwardprofiler.azurewebsites.net/data/education/meta.csv"},
-  {theme:"Environment", url:"https://sheffwardprofiler.azurewebsites.net/data/environment/meta.csv"},
-  {theme:"Governance", url:"https://sheffwardprofiler.azurewebsites.net/data/governance/meta.csv"},
-  {theme:"Health", url:"https://sheffwardprofiler.azurewebsites.net/data/health/meta.csv"},
-  {theme:"Housing", url:"https://sheffwardprofiler.azurewebsites.net/data/housing/meta.csv"},
-  {theme:"Labour market", url:"https://sheffwardprofiler.azurewebsites.net/data/labour_market/meta.csv"},
-  {theme:"Transport", url:"https://sheffwardprofiler.azurewebsites.net/data/transport/meta.csv"}]
+  themeUrls=[{theme:"Communications", url:"data/communications/meta.csv"},
+  {theme:"Community safety", url:"data/community_safety/meta.csv"},
+  {theme:"Demographics", url:"data/demographics/meta.csv"},
+  {theme:"Deprivation", url:"data/deprivation/meta.csv"},
+  {theme:"Economy", url:"data/economy/meta.csv"},
+  {theme:"Education", url:"data/education/meta.csv"},
+  {theme:"Environment", url:"data/environment/meta.csv"},
+  {theme:"Governance", url:"data/governance/meta.csv"},
+  {theme:"Health", url:"data/health/meta.csv"},
+  {theme:"Housing", url:"data/housing/meta.csv"},
+  {theme:"Labour market", url:"data/labour_market/meta.csv"},
+  {theme:"Transport", url:"data/transport/meta.csv"}]
   currentTheme = ""
   var currentDatasetList=[]
   //Load geojson and create the theme selector
-  var geoJsonUrl="https://sheffwardprofiler.azurewebsites.net/spatial/sheffield_ward_super_generalised.geojson"
+  var geoJsonUrl="spatial/sheffield_ward_super_generalised.geojson"
   d3.json(geoJsonUrl, function (error, json1) {
     json=json1;
     themeSelector()
@@ -522,12 +522,12 @@
         "Woodhouse":{slugName:"Woodhouse", description:"TO DO, TO DO"}
       }
 
-      document.getElementById("bar").innerHTML='<div class="eight0" ><object width="70%" type="image/svg+xml" data="https://sheffwardprofiler.azurewebsites.net/spatial//ward_plots/' + nameObj[d.area_name]["slugName"] + '.svg"></object></div>'
+      document.getElementById("bar").innerHTML='<div class="eight0" ><object width="70%" type="image/svg+xml" data="spatial//ward_plots/' + nameObj[d.area_name]["slugName"] + '.svg"></object></div>'
       document.getElementById("description").innerHTML="<h3>" + d.area_name + "</h3><p>" + nameObj[d.area_name]["description"] + "</p>"
     }
 
     function showBestFitMap(){
-      document.getElementById("svgBFM").innerHTML='<img width="100%" src="https://sheffwardprofiler.azurewebsites.net/spatial/sheffield_best-fit_wards.png"></img>'
+      document.getElementById("svgBFM").innerHTML='<img width="100%" src="spatial/sheffield_best-fit_wards.png"></img>'
       document.getElementById("bestFitMap").classList.add("visible");
     }
 
