@@ -9,4 +9,4 @@ An app allowing users to visualise indicators for the 28 Sheffield wards categor
 
 <br />
 
-The app can be viewed at <a href="https://www.trafforddatalab.io/ward_profiler/" target="_blank">https://www.trafforddatalab.io/ward_profiler/</a> and you can bookmark individual indicators.
+The original Trafford app can be viewed at <a href="https://www.trafforddatalab.io/ward_profiler/" target="_blank">https://www.trafforddatalab.io/ward_profiler/</a> and you can bookmark individual indicators.
